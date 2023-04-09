@@ -1,4 +1,4 @@
 changeBg:房间内.jpg;
-changeFigure:kanna.png;
+changeFigure:雪柳.png;
 雪柳:嗯……看来还是个新手，不过能下成这样倒也不错了。对了，陆双双嘛，不在赌场就是邀人去城西百尺楼饮酒下棋，你不如去那儿碰碰运气？;
 choose:继续:赢了.txt;

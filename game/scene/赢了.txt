@@ -1,5 +1,5 @@
 changeBg:房间内.jpg;
-changeFigure:kanna.png;
+changeFigure:雪柳.png;
 雪柳:看来你还蛮有天赋的，我可得让陆双双好好培养一下你。她这会应是在城西百尺楼下棋呢，你可以去看看？;
 changeFigure:none;
 intro:你独自前往城西，想起陆双双爱玩的诗词把戏，琢磨“百尺楼”无果，只好召唤出了敦敦。;
