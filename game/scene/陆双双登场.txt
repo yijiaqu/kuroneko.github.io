@@ -1,4 +1,4 @@
-changeBg:房间内.jpg;
+changeBg:百尺楼.jpg;
 陆双双:在！;
 :（女孩轻快地从一旁柱子后跳了出来，歪着头笑嘻嘻地看着小灵兽）;
 changeFigure:陆双双.png -left;
