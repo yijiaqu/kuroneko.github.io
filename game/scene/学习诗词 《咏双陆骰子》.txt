@@ -1,0 +1,5 @@
+:;
+changeBg:YSL.png;
+changeBg:YSL2.png;
+changeBg:YSL3.png;
+changeScene:酒楼.txt

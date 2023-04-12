@@ -1,0 +1,6 @@
+:;
+changeBg:CQ.png;
+changeBg:CQ2.png;
+changeBg:CQ3.png;
+changeBg:CQ4.png;
+changeScene:阁楼.txt

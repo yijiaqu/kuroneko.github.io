@@ -1,0 +1,4 @@
+changeBg:房间内.jpg;
+changeFigure:雪柳.png -next;
+雪柳:看来你还蛮有天赋的，我可得让陆双双好好培养一下你。她这会应是在城西百尺楼下棋呢，你可以去看看？;
+changeScene:棋后衔接.txt

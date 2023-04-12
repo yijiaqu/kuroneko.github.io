@@ -1,0 +1,3 @@
+changeBg:房间内.jpg;
+:答对了！答案是：人在楼中否;
+changeScene:陆双双登场.txt

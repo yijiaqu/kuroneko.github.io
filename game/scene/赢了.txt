@@ -1,0 +1,11 @@
+changeBg:房间内.jpg;
+changeFigure:雪柳.png;
+雪柳:看来你还蛮有天赋的，我可得让陆双双好好培养一下你。她这会应是在城西百尺楼下棋呢，你可以去看看？;
+changeFigure:none;
+intro:你独自前往城西，想起陆双双爱玩的诗词把戏，琢磨“百尺楼”无果，只好召唤出了敦敦。;
+changeBg:树林路上.jpg;
+changeFigure:小灵兽.png -right;
+游敦敦:你学得很快嘛，陆双双给我们设计的最后一关多半还是和诗词脱不了关系，待我去查阅一番！;
+:依靠“百尺楼”这一地点，你和敦敦一同找到了《卜算子·春情》一诗。;
+changeFigure: -right;
+choose:学习诗词:春情.txt|跳过:阁楼.txt;
